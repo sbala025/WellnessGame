@@ -14,5 +14,5 @@ We want to create a fun game that encourages people to take care of themselves. 
 The game is made using Unity3D engine. It should load normally like a unity game, however, the repo does not have the Library folder so it may not work.
 
 # Running the Game
-Go to the releases page, and downloaded the zip file, then run the WellnessGame.exe in that zip file.
+Currently, the available build only runs on Windows. To install it, go to the [releases page](https://github.com/sbala025/WellnessGame/releases/latest), and downloaded `WellnessGame.zip` and extract the zip file. In the extracted folder, enter the `Demo_2` folder and run `WellnessGame.exe`. You may have to allow your computer to run the exe file from an unverified publisher.
 
