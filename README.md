@@ -10,3 +10,9 @@ We want to create a fun game that encourages people to take care of themselves. 
 
 # Project Story
 
+# Compiling the Game
+The game is made using Unity3D engine. It should load normally like a unity game, however, the repo does not have the Library folder so it may not work.
+
+# Running the Game
+Go to the releases page, and downloaded the zip file, then run the WellnessGame.exe in that zip file.
+
